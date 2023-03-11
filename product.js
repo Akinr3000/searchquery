@@ -7,4 +7,4 @@ price:String,
 brand:String
 });
 
-module.exports = mongoose.model("query", productschema);
+module.exports = mongoose.model("search", productschema);
